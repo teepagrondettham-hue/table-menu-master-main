@@ -1,7 +1,7 @@
 import padThaiImg from "@/assets/menu-padthai.jpg";
 import greenCurryImg from "@/assets/menu-greencurry.jpg";
 import tomYumImg from "@/assets/menu-tomyum.png";
-import CokeImg from "@/assets/menu-Coke.jpg";
+import cokeImg from "@/assets/menu-coke.jpg";
 import NumImg from "@/assets/menu-Num.jpg";
 import KawpadImg from "@/assets/menu-Kawpad.jpg";
 import PopeertodImg from "@/assets/menu-Popeertod.jpg";
@@ -154,7 +154,7 @@ export const menuData = [
     description: "",
     price: 20,
     category: "เครื่องดื่ม",
-    image: CokeImg,
+    image: cokeImg,
   },
   {
     id: "8",
