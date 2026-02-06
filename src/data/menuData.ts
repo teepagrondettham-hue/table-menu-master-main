@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 import padthaiImg from "@/assets/menu-padthai.jpg";
 import greencurryImg from "@/assets/menu-greencurry.jpg";
 import tomyumImg from "@/assets/menu-tomyum.png";
+=======
+import padThaiImg from "@/assets/menu-padthai.jpg";
+import greenCurryImg from "@/assets/menu-greencurry.jpg";
+import tomYumImg from "@/assets/menu-tomyum.png";
+import cokeImg from "@/assets/menu-coke.jpg";
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
 import NumImg from "@/assets/menu-Num.jpg";
 import KawpadImg from "@/assets/menu-Kawpad.jpg";
 import PopeertodImg from "@/assets/menu-Popeertod.jpg";
@@ -13,6 +20,10 @@ import tomsabImg from "@/assets/menu-tomsab.jpg";
 import kaprawImg from "@/assets/menu-kapraw.jpg";
 import SomtumlaosImg from "@/assets/menu-Somtumlaos.jpg";
 import SomtumKoratImg from "@/assets/menu-SomtumKorat.jpg";
+<<<<<<< HEAD
+=======
+import SomtumluangPrabangImg from "@/assets/menu-SomtumluangPrabang.jpg";
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
 import tumsenlegImg from "@/assets/menu-tumsenleg.jpg";
 import tumpuplalaImg from "@/assets/menu-tumpuplala.jpg";
 import tumponlamaiImg from "@/assets/menu-tumponlamai.jpg";
@@ -43,7 +54,11 @@ import plamukluagImg from "@/assets/menu-plamukluag.jpg";
 import sailuagImg from "@/assets/menu-sailuag.jpg";
 import hoyluagImg from "@/assets/menu-hoyluag.jpg";
 import tuatodImg from "@/assets/menu-tuatod.jpg";
+<<<<<<< HEAD
 import fencfireImg from "@/assets/menu-fencfire.jpg";
+=======
+import frencfireImg from "@/assets/menu-fencfire.jpg";
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
 import medmamuangtodImg from "@/assets/menu-medmamuangtod.jpg";
 import kaimanawImg from "@/assets/menu-kaimanaw.jpg";
 import goongmanawImg from "@/assets/menu-goongmanaw.jpg";
@@ -61,10 +76,17 @@ import singlemonImg from "@/assets/menu-singlemon.jpg";
 import pooatWasabiImg from "@/assets/menu-pooatWasabi.jpg";
 import namsomImg from "@/assets/menu-namsom.jpg";
 import KungchaenamplaImg from "@/assets/menu-Kungchaenampla.jpg";
+<<<<<<< HEAD
 import ThuareaYipunImg from "@/assets/menu-ThuareaYipun.jpg";
 import schweppesImg from "@/assets/menu-schweppes.jpg";
 import SalmonwasabiImg from "@/assets/menu-Salmonwasabi.jpg";
 import KungdongKoreaImg from "@/assets/menu-KungdongKorea.jpg";
+=======
+import ThuareaYipunImg from "@/assets/menu-thuareayipun.jpg";
+import schweppesImg from "@/assets/menu-schweppes.jpg";
+import SalmonwasabiImg from "@/assets/menu-Salmonwasabi.jpg";
+import KungdongKoreaImg from "@/assets/menu-kungdongkorea.jpg";
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
 import takoImg from "@/assets/menu-tako.jpg";
 import NaemsongKhrueangImg from "@/assets/menu-NaemsongKhrueang.jpg";
 import PaechaplaninmorfaiImg from "@/assets/menu-Paechaplaninmorfai.jpg";
@@ -84,7 +106,11 @@ export const menuData = [
     description: "เส้นผัดไทย โรยถั่วกรอบ เสิร์ฟพร้อมมะนาว",
     price: 60,
     category: "อาหารจานเดียว",
+<<<<<<< HEAD
     image: padthaiImg,
+=======
+    image: padThaiImg,
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     proteinOptions: [
       { id: "pork", label: "หมู", extraPrice: 0 },
       { id: "chicken", label: "ไก่", extraPrice: 0 },
@@ -99,7 +125,11 @@ export const menuData = [
     description: "แกงเขียวหวาน เครื่องแกงสดใหม่ กะทิเข้มข้น",
     price: 120,
     category: "อาหารจานเดียว",
+<<<<<<< HEAD
     image: greencurryImg,
+=======
+    image: greenCurryImg,
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     proteinOptions: [
       { id: "chicken", label: "ไก่", extraPrice: 0 },
       { id: "pork", label: "หมู", extraPrice: 0 },
@@ -113,7 +143,11 @@ export const menuData = [
     description: "ต้มยำกุ้ง เลือกน้ำข้นหรือน้ำใส กุ้งสดใหญ่ เครื่องเทศครบ",
     price: 80,
     category: "ต้ม/นึ่ง/ลวกจิ้ม",
+<<<<<<< HEAD
     image: tomyumImg,
+=======
+    image: tomYumImg,
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     hasSoupOption: true,
     sizeOptions: [
       { id: "cup", label: "ถ้วย", price: 80 },
@@ -125,7 +159,11 @@ export const menuData = [
     ],
   },
   {
+<<<<<<< HEAD
     id: "4",
+=======
+    id: "5",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ข้าวผัด",
     description: "ข้าวผัดไข่ รสชาติกลมกล่อม",
     price: 60,
@@ -139,7 +177,11 @@ export const menuData = [
     ],
   },
   {
+<<<<<<< HEAD
     id: "5",
+=======
+    id: "6",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ปอเปี๊ยะทอด",
     description: "ปอเปี๊ยะทอดกรอบ เสิร์ฟพร้อมน้ำจิ้ม",
     price: 60,
@@ -147,7 +189,19 @@ export const menuData = [
     image: PopeertodImg,
   },
   {
+<<<<<<< HEAD
     id: "6",
+=======
+    id: "7",
+    name: "น้ำโค้ก",
+    description: "",
+    price: 20,
+    category: "เครื่องดื่ม",
+    image: cokeImg,
+  },
+  {
+    id: "8",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "น้ำเปล่า",
     description: "",
     price: 20,
@@ -155,7 +209,11 @@ export const menuData = [
     image: NumImg,
   },
   {
+<<<<<<< HEAD
     id: "7",
+=======
+    id: "9",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ส้มตำไทย",
     description: "เผ็ดน้อย/มาก ใส่/ไม่ใส่ ปูปลาร้า กรุณาระบุหมายเหตุ",
     price: 60,
@@ -163,7 +221,11 @@ export const menuData = [
     image: SomtumthaiImg,
   },
   {
+<<<<<<< HEAD
     id: "8",
+=======
+    id: "10",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ส้มตำซั่ว",
     description: "เผ็ดน้อย/มาก ใส่/ไม่ใส่ ปูปลาร้า กรุณาระบุหมายเหตุ",
     price: 69,
@@ -171,7 +233,11 @@ export const menuData = [
     image: tumsuaImg,
   },
  {
+<<<<<<< HEAD
     id: "9",
+=======
+    id: "11",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ส้มตำหมูยอ",
     description: "เผ็ดน้อย/มาก ใส่/ไม่ใส่ ปูปลาร้า กรุณาระบุหมายเหตุ",
     price: 79,
@@ -179,7 +245,11 @@ export const menuData = [
     image: tummooyoImg,
   },
   {
+<<<<<<< HEAD
     id: "10",
+=======
+    id: "12",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "มาม่าทะเลหม้อไฟ",
     description: "ต้มแซ่บรสจัด เลือกน้ำข้นหรือน้ำใส",
     price: 199,
@@ -187,7 +257,11 @@ export const menuData = [
     image: mamamofaiImg,
   },
   {
+<<<<<<< HEAD
     id: "11",
+=======
+    id: "13",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ต้มแซ่บ",
     description: "ต้มแซ่บรสจัด เลือกน้ำข้นหรือน้ำใส",
     price: 70,
@@ -204,7 +278,11 @@ export const menuData = [
     ],
   },
     {
+<<<<<<< HEAD
     id: "12",
+=======
+    id: "14",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ต้มจืดเต้าหู้หมูเด้งสาหร่าย",
     description: "ต้มแซ่บรสจัด เลือกน้ำข้นหรือน้ำใส",
     price: 70,
@@ -216,7 +294,11 @@ export const menuData = [
     ],
   },
   {
+<<<<<<< HEAD
     id: "13",
+=======
+    id: "15",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "กะเพรา",
     description: "ผัดกะเพรา ใบกะเพราหอม ๆ พริกสด",
     price: 60,
@@ -232,7 +314,11 @@ export const menuData = [
     ],
   },
   {
+<<<<<<< HEAD
     id: "14",
+=======
+    id: "16",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ส้มตำลาว",
     description: "เผ็ดน้อย/มาก ใส่/ไม่ใส่ ปูปลาร้า กรุณาระบุหมายเหตุ",
     price: 59,
@@ -240,7 +326,11 @@ export const menuData = [
     image: SomtumlaosImg,
   },
   {
+<<<<<<< HEAD
     id: "15",
+=======
+    id: "17",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ส้มตำโคราช",
     description: "เผ็ดน้อย/มาก ใส่/ไม่ใส่ ปูปลาร้า กรุณาระบุหมายเหตุ",
     price: 59,
@@ -248,7 +338,19 @@ export const menuData = [
     image: SomtumKoratImg,
   },
   {
+<<<<<<< HEAD
     id: "16",
+=======
+    id: "18",
+    name: "ส้มตำหลวงพระบาง",
+    description: "เผ็ดน้อย/มาก ใส่/ไม่ใส่ ปูปลาร้า กรุณาระบุหมายเหตุ",
+    price: 69,
+    category: "ส้มตำ/ยำ/ลาบ",
+    image: SomtumluangPrabangImg,
+  },
+  {
+    id: "19",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ส้มตำเส้นเล็ก",
     description: "เผ็ดน้อย/มาก ใส่/ไม่ใส่ ปูปลาร้า กรุณาระบุหมายเหตุ",
     price: 89,
@@ -256,7 +358,11 @@ export const menuData = [
     image: tumsenlegImg,
   },
   {
+<<<<<<< HEAD
     id: "17",
+=======
+    id: "20",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ส้มตำปูปลาร้า",
     description: "เผ็ดน้อย/มาก ใส่/ไม่ใส่ ปูปลาร้า กรุณาระบุหมายเหตุ",
     price: 69,
@@ -264,7 +370,11 @@ export const menuData = [
     image: tumpuplalaImg,
   },
   {
+<<<<<<< HEAD
     id: "18",
+=======
+    id: "21",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ส้มตำผลไม้",
     description: "เผ็ดน้อย/มาก ใส่/ไม่ใส่ ปูปลาร้า กรุณาระบุหมายเหตุ",
     price: 99,
@@ -272,7 +382,11 @@ export const menuData = [
     image: tumponlamaiImg,
   },
    {
+<<<<<<< HEAD
     id: "19",
+=======
+    id: "22",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ส้มตำกุ้งสด",
     description: "เผ็ดน้อย/มาก ใส่/ไม่ใส่ ปูปลาร้า กรุณาระบุหมายเหตุ",
     price: 99,
@@ -280,7 +394,11 @@ export const menuData = [
     image: tumgoongsodImg,
   },
    {
+<<<<<<< HEAD
     id: "20",
+=======
+    id: "23",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ส้มตำหมูยอ",
     description: "เผ็ดน้อย/มาก ใส่/ไม่ใส่ ปูปลาร้า กรุณาระบุหมายเหตุ",
     price: 79,
@@ -288,7 +406,11 @@ export const menuData = [
     image: tummooyoImg,
   },
     {
+<<<<<<< HEAD
     id: "21",
+=======
+    id: "24",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ยำหมูยอ",
     description: "เผ็ดน้อย/มาก กรุณาระบุหมายเหตุ",
     price: 89,
@@ -296,7 +418,11 @@ export const menuData = [
     image: yummooyoImg,
   },
    {
+<<<<<<< HEAD
     id: "22",
+=======
+    id: "25",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ยำวุ้นเส้น",
     description: "เผ็ดน้อย/มาก กรุณาระบุหมายเหตุ",
     price: 70,
@@ -310,7 +436,11 @@ export const menuData = [
     ],
   },
    {
+<<<<<<< HEAD
     id: "23",
+=======
+    id: "26",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ยำแหนมสด",
     description: "เผ็ดน้อย/มาก กรุณาระบุหมายเหตุ",
     price: 89,
@@ -318,7 +448,11 @@ export const menuData = [
     image: yumnamsodImg,
   },
    {
+<<<<<<< HEAD
     id: "24",
+=======
+    id: "27",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ยำกุ้งสด",
     description: "เผ็ดน้อย/มาก กรุณาระบุหมายเหตุ",
     price: 99,
@@ -326,7 +460,11 @@ export const menuData = [
     image: yumgoongsodImg,
   },
    {
+<<<<<<< HEAD
     id: "25",
+=======
+    id: "28",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ยำรวมทะเล",
     description: "เผ็ดน้อย/มาก กรุณาระบุหมายเหตุ",
     price: 149,
@@ -334,7 +472,11 @@ export const menuData = [
     image: yumtalaImg,
   },
    {
+<<<<<<< HEAD
     id: "26",
+=======
+    id: "29",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ลาบเมืองสุก",
     description: "แซ่บๆร้อนๆ เครื่องเทศหอม",
     price: 80,
@@ -342,7 +484,11 @@ export const menuData = [
     image: LabImg,
    },
   {
+<<<<<<< HEAD
     id: "27",
+=======
+    id: "30",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ลาบอีสาน",
     description: "ลาบสับสดใหม่ เครื่องเทศหอม",
     price: 89,
@@ -350,7 +496,11 @@ export const menuData = [
     image: LabDibImg,
   },
   {
+<<<<<<< HEAD
     id: "28",
+=======
+    id: "31",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "หมูน้ำตก",
     description: "้เผ็ดเปรี้ยว ถึงใจ",
     price: 99,
@@ -359,7 +509,11 @@ export const menuData = [
     
   },
   {
+<<<<<<< HEAD
     id: "29",
+=======
+    id: "32",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ตับหวาน",
     description: "สดใหม่ เครื่องเทศหอม",
     price: 89,
@@ -367,7 +521,11 @@ export const menuData = [
     image: tubhwanImg,
   },
    {
+<<<<<<< HEAD
     id: "30",
+=======
+    id: "33",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ข้าวไข่เจียวหมูสับ",
     description: "ไข่เจียวนุ่มๆร้อนๆ ไม่อมน้ำมัน",
     price: 59,
@@ -378,7 +536,11 @@ export const menuData = [
     ],
   },
   {
+<<<<<<< HEAD
     id: "31",
+=======
+    id: "34",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ข้าวหมูกระเทียม",
     description: "หมูนุ่ม อร่อย ไม่อมน้ำมัน",
     price: 59,
@@ -390,7 +552,11 @@ export const menuData = [
     ],
   },
   {
+<<<<<<< HEAD
     id: "32",
+=======
+    id: "35",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "สุกี้",
     description: "น้ำ/แห้ง กรุณาระบุ",
     price: 59,
@@ -401,7 +567,11 @@ export const menuData = [
     ],
   },
    {
+<<<<<<< HEAD
     id: "33",
+=======
+    id: "36",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ข้าวคะน้า",
     description: "หมูนุ่ม คะน้ากรอบ",
     price: 59,
@@ -412,7 +582,11 @@ export const menuData = [
     ],
   },
   {
+<<<<<<< HEAD
     id: "34",
+=======
+    id: "37",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ข้าวหน้าลาบเมือง/อีสาน",
     description: "หมูนุ่ม คะน้ากรอบ",
     price: 69,
@@ -423,7 +597,11 @@ export const menuData = [
     ],
   },
   {
+<<<<<<< HEAD
     id: "35",
+=======
+    id: "38",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "หมึกผัดพริกเผา",
     description: "เผ็ดแซ่บ หอมเครื่องเทศ",
     price: 129,
@@ -431,7 +609,11 @@ export const menuData = [
     image: mukpudpikImg,
   },
    {
+<<<<<<< HEAD
     id: "36",
+=======
+    id: "39",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ผัดเผ็ดกบ",
     description: "เผ็ดแซ่บ หอมเครื่องเทศ",
     price: 139,
@@ -439,7 +621,11 @@ export const menuData = [
     image: pudpedgobImg,
   },
   {
+<<<<<<< HEAD
     id: "37",
+=======
+    id: "40",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ผัดผักรวม",
     description: "ผักนานาชนิดมีความอร่อย",
     price: 79,
@@ -451,7 +637,11 @@ export const menuData = [
     ],
   },
  {
+<<<<<<< HEAD
     id: "38",
+=======
+    id: "41",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ปลาหมึกนึ่งมะนาว",
     description: "ปลาหมึกสดนึ่ง ราดน้ำมะนาวรสจัด",
     price: 150,
@@ -459,7 +649,11 @@ export const menuData = [
     image: PlamuknungmanawImg,
   },
   {
+<<<<<<< HEAD
     id: "39",
+=======
+    id: "42",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ห่อหมกทะเล",
     description: "รวมของทะเลแสนอร่อย",
     price: 199,
@@ -467,7 +661,11 @@ export const menuData = [
     image: homokImg,
   },
   {
+<<<<<<< HEAD
     id: "40",
+=======
+    id: "43",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ปลานิลนึ่งมะนาว",
     description: "มาแบบหม้อไฟร้อนๆ แซ่บๆ",
     price: 299,
@@ -475,7 +673,11 @@ export const menuData = [
     image: planinImg,
   },
   {
+<<<<<<< HEAD
     id: "41",
+=======
+    id: "44",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ปลานิลนึ่งซีอิ๊ว",
     description: "เนื้อปลาหอมนุ่ม",
     price: 299,
@@ -483,7 +685,11 @@ export const menuData = [
     image: planinseeeiwImg,
   },
    {
+<<<<<<< HEAD
     id: "42",
+=======
+    id: "45",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "หมูจิ้มแจ่ว",
     description: "หมูสดลวกจิ้มน้ำจิ้มแจ่ว พร้อมผัก",
     price: 89,
@@ -491,7 +697,11 @@ export const menuData = [
     image: MoojimjawImg,
   },
   {
+<<<<<<< HEAD
     id: "43",
+=======
+    id: "46",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ปลาหมึกลวกจิ้ม",
     description: "ปลาหมึกสดลวกจิ้มน้ำจิ้มแซ่บๆ พร้อมผัก",
     price: 139,
@@ -499,7 +709,11 @@ export const menuData = [
     image: plamukluagImg,
   },
    {
+<<<<<<< HEAD
     id: "44",
+=======
+    id: "47",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ไส้ตันลวกจิ้ม",
     description: "ไส้ตันลวกจิ้มน้ำจิ้มแซ่บๆ พร้อมผัก",
     price: 89,
@@ -507,7 +721,11 @@ export const menuData = [
     image: sailuagImg,
   },
   {
+<<<<<<< HEAD
     id: "45",
+=======
+    id: "48",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ไส้ตันลวกจิ้ม",
     description: "ไส้ตันลวกจิ้มน้ำจิ้มแซ่บๆ พร้อมผัก",
     price: 99,
@@ -515,7 +733,11 @@ export const menuData = [
     image: hoyluagImg,
   },
   {
+<<<<<<< HEAD
     id: "46",
+=======
+    id: "49",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ถั่วทอด",
     description: "กับแกล้ม ไว้ทานเล่นๆ",
     price: 59,
@@ -523,15 +745,26 @@ export const menuData = [
     image: tuatodImg,
   },
    {
+<<<<<<< HEAD
     id: "47",
+=======
+    id: "50",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "เฟรนฟรายส์",
     description: "กับแกล้ม ไว้ทานเล่นๆ",
     price: 69,
     category: "ของทอด / ของกินเล่น",
+<<<<<<< HEAD
     image: fencfireImg,
   },
    {
     id: "48",
+=======
+    image: frencfireImg,
+  },
+   {
+    id: "51",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "เม็ดมะม่วงทอด",
     description: "กับแกล้ม ไว้ทานเล่นๆ",
     price: 89,
@@ -539,7 +772,11 @@ export const menuData = [
     image: medmamuangtodImg,
   },
   {
+<<<<<<< HEAD
     id: "49",
+=======
+    id: "52",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ไก่ครีมมะนาว",
     description: "กับแกล้ม ไว้ทานเล่นๆ",
     price: 89,
@@ -547,7 +784,11 @@ export const menuData = [
     image: kaimanawImg,
   },
   {
+<<<<<<< HEAD
     id: "50",
+=======
+    id: "53",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "กุ้งครีมมะนาว",
     description: "กับแกล้ม ไว้ทานเล่นๆ",
     price: 89,
@@ -555,7 +796,11 @@ export const menuData = [
     image: goongmanawImg,
   },
   {
+<<<<<<< HEAD
     id: "51",
+=======
+    id: "54",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ปลาครีมมะนาว",
     description: "กับแกล้ม ไว้ทานเล่นๆ",
     price: 89,
@@ -563,7 +808,11 @@ export const menuData = [
     image: plamanawImg,
   },
   {
+<<<<<<< HEAD
     id: "52",
+=======
+    id: "55",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ชีสบอล",
     description: "กับแกล้ม ไว้ทานเล่นๆ",
     price: 119,
@@ -571,7 +820,11 @@ export const menuData = [
     image: cheeseballImg,
   },
   {
+<<<<<<< HEAD
     id: "53",
+=======
+    id: "56",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "เห็ดทอด",
     description: "กับแกล้ม ไว้ทานเล่นๆ",
     price: 89,
@@ -579,7 +832,11 @@ export const menuData = [
     image: hedtodImg,
   },
   {
+<<<<<<< HEAD
     id: "54",
+=======
+    id: "57",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ปีกไก่ทอดน้ำปลา",
     description: "กับแกล้ม ไว้ทานเล่นๆ",
     price: 99,
@@ -587,7 +844,11 @@ export const menuData = [
     image: peekkaiImg,
   },
   {
+<<<<<<< HEAD
     id: "55",
+=======
+    id: "58",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "เอ็นไก่ทอด",
     description: "กับแกล้ม ไว้ทานเล่นๆ",
     price: 89,
@@ -595,7 +856,11 @@ export const menuData = [
     image: enkaiImg,
   },
   {
+<<<<<<< HEAD
     id: "56",
+=======
+    id: "59",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "นักเก็ต",
     description: "กับแกล้ม ไว้ทานเล่นๆ",
     price: 99,
@@ -603,7 +868,11 @@ export const menuData = [
     image: nuggetImg,
   },
    {
+<<<<<<< HEAD
     id: "57",
+=======
+    id: "60",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "โซดา",
     description: "",
     price: 20,
@@ -611,7 +880,11 @@ export const menuData = [
     image: sodaImg,
   },
    {
+<<<<<<< HEAD
     id: "58",
+=======
+    id: "62",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "น้ำแดง",
     description: "",
     price: 20,
@@ -619,14 +892,22 @@ export const menuData = [
     image: numdangImg,
   },
    {
+<<<<<<< HEAD
     id: "59",
+=======
+    id: "63",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "สไปร์ท",
     description: "",
     price: 20,
     category: "เครื่องดื่ม",
     image: sprieImg,
   }, {
+<<<<<<< HEAD
     id: "60",
+=======
+    id: "64",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "น้ำส้ม",
     description: "",
     price: 20,
@@ -634,7 +915,11 @@ export const menuData = [
     image:  namsomImg,
   },
    {
+<<<<<<< HEAD
     id: "61",
+=======
+    id: "65",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "น้ำเขียว",
     description: "",
     price: 20,
@@ -642,7 +927,11 @@ export const menuData = [
     image: numkeawImg,
   },
    {
+<<<<<<< HEAD
     id: "62",
+=======
+    id: "66",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "สิงห์เลม่อน",
     description: "",
     price: 25,
@@ -650,7 +939,11 @@ export const menuData = [
     image: singlemonImg,
   },
    {
+<<<<<<< HEAD
     id: "63",
+=======
+    id: "67",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ชเวป",
     description: "",
     price: 25,
@@ -658,7 +951,11 @@ export const menuData = [
     image:schweppesImg ,
   },
    {
+<<<<<<< HEAD
     id: "64",
+=======
+    id: "68",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ปูอัดวาซาบิ",
     description: "",
     price: 79,
@@ -666,7 +963,11 @@ export const menuData = [
     image: pooatWasabiImg,
   },
   {
+<<<<<<< HEAD
     id: "65",
+=======
+    id: "69",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "แซลม่อนวาซาบิ",
     description: "",
     price: 179,
@@ -674,7 +975,11 @@ export const menuData = [
     image: SalmonwasabiImg,
   },
   {
+<<<<<<< HEAD
     id: "66",
+=======
+    id: "70",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "กุ้งแช่น้ำปลา",
     description: "",
     price: 99,
@@ -682,7 +987,11 @@ export const menuData = [
     image: KungchaenamplaImg,
   },
   {
+<<<<<<< HEAD
     id: "67",
+=======
+    id: "71",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ถั่วแระญี่ปุ่น",
     description: "",
     price: 69,
@@ -690,7 +999,11 @@ export const menuData = [
     image: ThuareaYipunImg,
   },
   {
+<<<<<<< HEAD
     id: "68",
+=======
+    id: "72",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "กุ้งดองเกาหลี",
     description: "",
     price: 129,
@@ -698,7 +1011,11 @@ export const menuData = [
     image:KungdongKoreaImg,
   },
   {
+<<<<<<< HEAD
     id: "69",
+=======
+    id: "73",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ทาโกะ",
     description: "",
     price: 110,
@@ -706,7 +1023,11 @@ export const menuData = [
     image: takoImg,
   },
   {
+<<<<<<< HEAD
     id: "70",
+=======
+    id: "74",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "แหนมทรงเครื่อง",
     description: "",
     price: 99,
@@ -714,7 +1035,11 @@ export const menuData = [
     image: NaemsongKhrueangImg,
   },
   {
+<<<<<<< HEAD
     id: "71",
+=======
+    id: "75",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "แป๊ะซ๊ะปลานิลหม้อไฟ",
     description: "",
     price: 299,
@@ -722,7 +1047,11 @@ export const menuData = [
     image:PaechaplaninmorfaiImg,
   },
    {
+<<<<<<< HEAD
     id: "72",
+=======
+    id: "76",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ปลาราดพริก",
     description: "ที่ร้านใช้ปลานิลนะคะ",
     price: 259,
@@ -730,7 +1059,11 @@ export const menuData = [
     image: plarraadprikImg,
   },
    {
+<<<<<<< HEAD
     id: "73",
+=======
+    id: "77",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ปลาทอดกระเทียม",
     description: "ที่ร้านใช้ปลานิลนะคะ",
     price: 299,
@@ -738,7 +1071,11 @@ export const menuData = [
     image: plathotkrathiamImg,
   },
    {
+<<<<<<< HEAD
     id: "74",
+=======
+    id: "78",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ปลาทอดน้ำปลา",
     description: "ที่ร้านใช้ปลานิลนะคะ",
     price: 299,
@@ -746,7 +1083,11 @@ export const menuData = [
     image: plathotnampalImg,
   },
    {
+<<<<<<< HEAD
     id: "75",
+=======
+    id: "79",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ปลาทอดสมุนไพร",
     description: "ที่ร้านใช้ปลานิลนะคะ",
     price: 299,
@@ -754,7 +1095,11 @@ export const menuData = [
     image: platodsamouthaiImg,
   },
   {
+<<<<<<< HEAD
     id: "76",
+=======
+    id: "80",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ปลานิลผัดคื่นช่าย",
     description: "",
     price: 149,
@@ -762,7 +1107,11 @@ export const menuData = [
     image: planinphatkhuenchaiImg,
   },
   {
+<<<<<<< HEAD
     id: "77",
+=======
+    id: "81",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ปลาคังผัดคื่นช่าย",
     description: "",
     price: 169,
@@ -770,7 +1119,11 @@ export const menuData = [
     image: plakhangphatkhuenchaiImg,
   },
   {
+<<<<<<< HEAD
     id: "78",
+=======
+    id: "82",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ผัดฉ่าปลาคัง",
     description: "",
     price: 169,
@@ -778,7 +1131,11 @@ export const menuData = [
     image: phatchaplaKhangImg,
   },
   {
+<<<<<<< HEAD
     id: "79",
+=======
+    id: "83",
+>>>>>>> c697082b32f61eefbb1fd9869c41ba7565a8e5c7
     name: "ผัดฉ่าปลานิล",
     description: "",
     price: 149,
