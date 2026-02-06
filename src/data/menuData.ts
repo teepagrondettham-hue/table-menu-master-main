@@ -11,7 +11,6 @@ import YumwoonsenImg from "@/assets/menu-Yumwoonsen.jpg";
 import MoojimjawImg from "@/assets/menu-Moojimjaw.jpg";
 import PlamuknungmanawImg from "@/assets/menu-Plamuknungmanaw.jpg";
 import tomsabImg from "@/assets/menu-tomsab.jpg";
-import kaprawImg from "@/assets/menu-kapraw.jpg";
 import SomtumlaosImg from "@/assets/menu-Somtumlaos.jpg";
 import SomtumKoratImg from "@/assets/menu-SomtumKorat.jpg";
 import tumsenlegImg from "@/assets/menu-tumsenleg.jpg";
@@ -229,23 +228,6 @@ export const menuData = [
   },
   {
 
-    id: "15",
-    name: "กะเพรา",
-    description: "ผัดกะเพรา ใบกะเพราหอม ๆ พริกสด",
-    price: 60,
-    category: "อาหารจานเดียว",
-    image: kaprawImg,
-    proteinOptions: [
-      { id: "pork", label: "หมูสับ", extraPrice: 0 },
-      { id: "chicken", label: "ไก่สับ", extraPrice: 0 },
-      { id: "crispy_pork", label: "หมูกรอบ", extraPrice: 20 },
-      { id: "shrimp", label: "กุ้ง", extraPrice: 30 },
-      { id: "squid", label: "ปลาหมึก", extraPrice: 30 },
-      { id: "mixed_seafood", label: "ทะเลรวม", extraPrice: 50 },
-    ],
-  },
-  {
-
     id: "16",
 
     name: "ส้มตำลาว",
@@ -263,7 +245,6 @@ export const menuData = [
     image: SomtumKoratImg,
   },
   {
-
   },
   {
     id: "19",    name: "ส้มตำเส้นเล็ก",
