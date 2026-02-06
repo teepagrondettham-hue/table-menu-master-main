@@ -14,7 +14,6 @@ import tomsabImg from "@/assets/menu-tomsab.jpg";
 import kaprawImg from "@/assets/menu-kapraw.jpg";
 import SomtumlaosImg from "@/assets/menu-Somtumlaos.jpg";
 import SomtumKoratImg from "@/assets/menu-SomtumKorat.jpg";
-import SomtumluangPrabangImg from "@/assets/menu-SomtumluangPrabang.jpg";
 import tumsenlegImg from "@/assets/menu-tumsenleg.jpg";
 import tumpuplalaImg from "@/assets/menu-tumpuplala.jpg";
 import tumponlamaiImg from "@/assets/menu-tumponlamai.jpg";
@@ -75,10 +74,6 @@ import plathotkrathiamImg from "@/assets/menu-plathotkrathiam.jpg";
 import plathotnampalImg from "@/assets/menu-plathotnampal.jpg";
 import platodsamouthaiImg from "@/assets/menu-platodsamouthai.jpg";
 import planinphatkhuenchaiImg from "@/assets/menu-planinphatkhuenchai.jpg";
-import phatchaplaKhangImg from "@/assets/menu-phatchaplaKhang.jpg";
-import PhatchaplaninImg from "@/assets/menu-Phatchaplanin.jpg";
-import plakhangphatkhuenchaiImg from "@/assets/menu-plakhangphatkhuenchai.jpg";
-
 export const menuData = [
   {
     id: "1",
@@ -269,13 +264,6 @@ export const menuData = [
   },
   {
 
-
-    id: "18",
-    name: "ส้มตำหลวงพระบาง",
-    description: "เผ็ดน้อย/มาก ใส่/ไม่ใส่ ปูปลาร้า กรุณาระบุหมายเหตุ",
-    price: 69,
-    category: "ส้มตำ/ยำ/ลาบ",
-    image: SomtumluangPrabangImg,
   },
   {
     id: "19",    name: "ส้มตำเส้นเล็ก",
@@ -794,30 +782,6 @@ export const menuData = [
     price: 149,
     category: "เมนูปลา",
     image: planinphatkhuenchaiImg,
-  },
-  {
-    id: "81",
-    name: "ปลาคังผัดคื่นช่าย",
-    description: "",
-    price: 169,
-    category: "เมนูปลา",
-    image: plakhangphatkhuenchaiImg,
-  },
-  {
-    id: "82",
-    name: "ผัดฉ่าปลาคัง",
-    description: "",
-    price: 169,
-    category: "เมนูปลา",
-    image: phatchaplaKhangImg,
-  },
-  {
-    id: "83",
-    name: "ผัดฉ่าปลานิล",
-    description: "",
-    price: 149,
-    category: "เมนูปลา",
-    image: PhatchaplaninImg ,
   },
 ];
  
