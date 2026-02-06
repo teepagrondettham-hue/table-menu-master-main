@@ -1,10 +1,6 @@
 
 import padthaiImg from "@/assets/menu-padthai.jpg";
-import greencurryImg from "@/assets/menu-greencurry.jpg";
 import tomyumImg from "@/assets/menu-tomyum.png";
-import padThaiImg from "@/assets/menu-padthai.jpg";
-import greenCurryImg from "@/assets/menu-greencurry.jpg";
-import tomYumImg from "@/assets/menu-tomyum.png";
 import cokeImg from "@/assets/menu-coke.jpg";
 import NumImg from "@/assets/menu-Num.jpg";
 import KawpadImg from "@/assets/menu-Kawpad.jpg";
@@ -50,7 +46,6 @@ import sailuagImg from "@/assets/menu-sailuag.jpg";
 import hoyluagImg from "@/assets/menu-hoyluag.jpg";
 import tuatodImg from "@/assets/menu-tuatod.jpg";
 import fencfireImg from "@/assets/menu-fencfire.jpg";
-import frencfireImg from "@/assets/menu-fencfire.jpg";
 import medmamuangtodImg from "@/assets/menu-medmamuangtod.jpg";
 import kaimanawImg from "@/assets/menu-kaimanaw.jpg";
 import goongmanawImg from "@/assets/menu-goongmanaw.jpg";
