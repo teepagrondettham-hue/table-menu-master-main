@@ -227,7 +227,6 @@ export const menuData = [
     ],
   },
   {
-
     id: "16",
 
     name: "ส้มตำลาว",
